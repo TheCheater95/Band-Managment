@@ -1,14 +1,14 @@
-<<?php
+<?php
 
-$_username;
-$_password;
+$dbuser = ;
+$dbpassword = ;
+$dbport = ;
+$dbhost = ;
+$dbdatabase = ;
 
-$_username = $_POST["username"]
-
-
-
-echo "$_username";
-
-
+  public function Config()
+  {
+    // code...
+  }
 
  ?>
