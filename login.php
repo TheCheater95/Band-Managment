@@ -1,14 +1,7 @@
 <?php
 
-$dbuser = ;
-$dbpassword = ;
-$dbport = ;
-$dbhost = ;
-$dbdatabase = ;
+include 'config.php';
 
-  public function Config()
-  {
-    // code...
-  }
+
 
  ?>
